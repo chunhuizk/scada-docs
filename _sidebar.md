@@ -4,6 +4,6 @@
 
  * [数据上报](report.md)
 
-- 附件
-
- * [数据结构](data-types.md)
+- 数据结构
+ * [GatewayData](data-types/GatewayData.md)
+ * [MetricData](data-types/MetricData.md)
